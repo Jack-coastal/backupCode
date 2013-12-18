@@ -1,0 +1,6 @@
+setup.py
+QuantTechnologies.egg-info/PKG-INFO
+QuantTechnologies.egg-info/SOURCES.txt
+QuantTechnologies.egg-info/dependency_links.txt
+QuantTechnologies.egg-info/not-zip-safe
+QuantTechnologies.egg-info/top_level.txt
